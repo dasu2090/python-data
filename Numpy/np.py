@@ -42,3 +42,6 @@ c4 = c2.flatten()
 print("flattenはコピーを返す")
 print("c4 = c2.flatten()")
 print(c4)
+
+print()
+print(a.dtype)
